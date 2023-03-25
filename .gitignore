@@ -1,1 +1,4 @@
 node_modules
+pm2.error.log
+pm2.out.log
+*.log
